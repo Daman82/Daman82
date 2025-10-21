@@ -24,7 +24,7 @@ I'm a data science professional transitioning into the field with a passion for 
 ## Let's Connect
 - LinkedIn: www.linkedin.com/in/robert-l-wilson-ii
 - Email: robertlwilsonii.com
-- Kaggle: 
+- Kaggle: https://www.kaggle.com/daman82
 
 ## Currently Learning
 - Advanced Machine Learning techniques
