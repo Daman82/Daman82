@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Robert L Wilson! 
 
-<!--
-**Daman82/Daman82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a data science professional transitioning into the field with a passion for turning data into actionable insights. Currently building my portfolio through hands-on projects in machine learning, data analysis, and visualization.
 
-Here are some ideas to get you started:
+## Technical Skills
+**Languages & Tools:**
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- SQL (PostgreSQL, MySQL)
+- Jupyter Notebooks
+- Git & GitHub
+- Currently learning: Azure ML, Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core Competencies:**
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Machine Learning (Classification, Regression)
+- Data Visualization
+- Statistical Analysis
+
+## Featured Projects
+*Projects coming soon! Check back as I build my portfolio.*
+
+## Let's Connect
+- LinkedIn: www.linkedin.com/in/robert-l-wilson-ii
+- Email: robertlwilsonii.com
+- Kaggle: 
+
+## Currently Learning
+- Advanced Machine Learning techniques
+- Deep Learning & Neural Networks
+- Cloud-based ML with Azure
+- NLP and Computer Vision
+
+---
+*"Data is the new oil, but insights are the refined fuel."*
